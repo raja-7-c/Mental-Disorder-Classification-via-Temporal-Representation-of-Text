@@ -1,0 +1,1 @@
+### Files of type `.pkl` are saved in this folder for checkpointing the trained models

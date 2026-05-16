@@ -1,0 +1,1 @@
+### Files of type `.logs` are saved in this folder for logging the results and other data

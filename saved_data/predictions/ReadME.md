@@ -1,0 +1,1 @@
+### Files of type `.txt` are saved in this folder for saving the predictions model wise arranged as per the mental disorder.
